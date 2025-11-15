@@ -1,0 +1,21 @@
+# Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Virtual envs
+venv/
+.env/
+
+# IDE files
+.idea/
+.vscode/
+
+# OS noise
+.DS_Store
